@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: "adobe-clean", sans-serif;
+
+    margin: 0;
+    padding: 0;
+
+    height: 100%;
+}
+
+body:lang(ja) {
+    font-family: adobe-clean, 'adobe clean', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+#container {
+    height: 100%;
+}
